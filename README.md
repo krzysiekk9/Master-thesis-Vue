@@ -1,19 +1,16 @@
-# vue3-project
+# Vue.js benchmark app
 
-## Project setup
-```
-npm install
-```
+This web application was created for benchmark testing. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+For my master thesis, I compared two JS frameworks - React and Vue.js. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The applications were coded in both frameworks to be as similar as possible, and then tested for performance.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The app generates tables and renders images (I measured rendering times in both frameworks).
+
+---
+
+### You can check it here:
+
+[https://master-thesis-react.vercel.app/](https://master-thesis-vue.vercel.app/)https://master-thesis-vue.vercel.app/
+
