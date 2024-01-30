@@ -12,5 +12,5 @@ The app generates tables and renders images (I measured rendering times in both 
 
 ### You can check it here:
 
-[https://master-thesis-react.vercel.app/](https://master-thesis-vue.vercel.app/)https://master-thesis-vue.vercel.app/
+https://master-thesis-vue.vercel.app/
 
